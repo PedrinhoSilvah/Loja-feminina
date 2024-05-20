@@ -1,0 +1,40 @@
+.discont{
+   margin-top: 40px;
+   display: flex;
+   justify-content: center;
+   margin-bottom: 40%;
+  
+
+   &_div{
+    width: 350px;
+    height: 200px;
+    display: flex;
+    border:  solid 1px #f1f2f6 ;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px 5px ;
+    background-color: #b2bec3;
+    margin-top: 40px;
+
+    &_mov{
+        text-align: center;
+        align-items: center;
+
+    }
+
+    .text-p{
+        font-size: 12px;
+        padding-left: 20px;
+        padding-top: 10px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    .text-h2{
+        color: #30336b;
+        font-size: 20px;
+        padding-left: 20px;
+    }
+
+    .discont_img{
+        padding-left: 30px;
+    }
+   }
+}
