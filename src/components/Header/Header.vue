@@ -5,12 +5,9 @@
 <template>
   <header class="header">
 
-    <img class="logo" src="C:\Users\Micro\Loja_mayhane\src\components\Header\img\Logo_loja-removebg-preview.png" alt="">
+    <img class="logo" src="./img/Logo_loja-removebg-preview.png" alt="">
 
     <h1>Moda<span>Feminina</span></h1>
-    <div class="end">
-      <img class="carrinho" src="c:\Users\Micro\Loja_mayhane\public\sacolas-de-compras.png" alt="">
-    </div>
 
 
   </header>
