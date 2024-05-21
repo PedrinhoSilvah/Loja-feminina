@@ -16,4 +16,4 @@
 
 </template>
 
-<style src="src\components\Desconto\Desconto.scss" lang="scss"></style>
+<style src="src\components\Desconto\Desconto.scss" scoped lang="scss"></style>
