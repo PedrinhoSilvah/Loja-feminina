@@ -20,15 +20,15 @@ export default {
     <h2 class="nav-text">Navegue por modelagens</h2>
     <ul class="nav-bar-item">
       <li class="nav-bar-item-li"><router-link to="/"><img class="logo-roupas"
-            src="C:\Users\Micro\Loja_mayhane\src\Img\item_3_blusa.jpg">Blusas</router-link></li>
+            src="../src/Img/item_3_blusa.jpg">Blusas</router-link></li>
       <li class="nav-bar-item-li"><router-link to="/Bory"><img class="logo-roupas"
-            src="C:\Users\Micro\Loja_mayhane\src\Img\item_1_bory.webp">Borys</router-link></li>
+            src="../src/Img/item_1_bory.webp">Borys</router-link></li>
       <li class="nav-bar-item-li"><router-link to="/Cropped"><img class="logo-roupas"
-            src="C:\Users\Micro\Loja_mayhane\src\Img\cropped.jpg">Croppeds</router-link></li>
+            src="../src/Img/cropped.jpg">Croppeds</router-link></li>
       <li class="nav-bar-item-li"><router-link to="/Macacao"><img class="logo-roupas"
-            src="C:\Users\Micro\Loja_mayhane\src\Img\item_5_vestido.jpg">Macacão</router-link></li>
+            src="../src/Img/item_5_vestido.jpg">Macacão</router-link></li>
       <li class="nav-bar-item-li"><router-link to="/Vestido"><img class="logo-roupas"
-            src="C:\Users\Micro\Loja_mayhane\src\Img\item_4_vestidos.jpg">Vestidos</router-link></li>
+            src="../src/Img/item_4_vestidos.jpg">Vestidos</router-link></li>
     </ul>
   </nav>
   <RouterView />
