@@ -16,4 +16,6 @@
 
 </template>
 
-<style src="src\components\Desconto\Desconto.scss" scoped lang="scss"></style>
+<style scoped lang="scss">
+    @import './Desconto.scss';
+</style>
