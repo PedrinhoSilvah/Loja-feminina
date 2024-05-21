@@ -89,4 +89,6 @@
     </div>
 </template>
 
-<style lang="scss" src="C:\Users\Micro\Loja_mayhane\src\views\Roupas.scss"></style>
+<style lang="scss">
+@import 'Roupas.scss';
+</style>

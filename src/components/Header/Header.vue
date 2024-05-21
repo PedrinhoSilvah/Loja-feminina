@@ -39,4 +39,6 @@
 
 </template>
 
-<style lang="scss" scoped src="src/components/Header/Header.scss"></style>
+<style lang="scss" scoped>
+  @import './Header.scss';
+</style>

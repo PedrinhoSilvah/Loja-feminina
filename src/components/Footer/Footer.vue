@@ -39,4 +39,6 @@
     </footer>
 </template>
 
-<style src="src\components\Footer\Footer.scss" lang="scss"></style>
+<style lang="scss">
+    @import './Footer.scss';
+</style>
